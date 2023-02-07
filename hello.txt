@@ -4,6 +4,6 @@ hello world！
 hello world！
 hello world!
 hello world!
-<<<<<<< HEAD
+666666666666
 hello world! master test
 hello world! hot-fix test
